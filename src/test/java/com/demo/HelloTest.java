@@ -9,8 +9,17 @@ public class HelloTest {
 		
 		System.out.println("please come dude");
 		
+
 		System.out.println("hello MOTO");
 		
+
+		System.out.println("made the changes");
+		
+		System.out.println("please check it");
+		
+		
+		System.out.println("hello");
+
 	}
 
 }
