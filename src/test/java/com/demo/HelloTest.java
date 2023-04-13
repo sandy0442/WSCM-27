@@ -8,6 +8,13 @@ public class HelloTest {
 	public void demo() {
 		
 		System.out.println("please come dude");
+		
+		System.out.println("made the changes");
+		
+		System.out.println("please check it");
+		
+		
+		
 	}
 
 }
