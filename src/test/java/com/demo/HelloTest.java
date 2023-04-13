@@ -8,6 +8,9 @@ public class HelloTest {
 	public void demo() {
 		
 		System.out.println("please come dude");
+		
+		System.out.println("hello MOTO");
+		
 	}
 
 }
